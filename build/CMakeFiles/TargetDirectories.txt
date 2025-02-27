@@ -1,0 +1,3 @@
+C:/Users/Пользователь/source/repos/newlife/build/CMakeFiles/newlife.dir
+C:/Users/Пользователь/source/repos/newlife/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Пользователь/source/repos/newlife/build/CMakeFiles/ZERO_CHECK.dir
